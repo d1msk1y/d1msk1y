@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d1msk1y
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity/C#
+- 👀 Advanced Unity Game Developer
+- 🌱 Skills: Unity, Blender, Adobe Photoshop, Adobe Illustrator, Audacity, Sony Vegas, Magica Voxel, Unreal Engine.
 - 📫Use my link tree to reach me: https://linktr.ee/d1msk1y
 
 <!---
