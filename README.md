@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d1msk1y
-- 👀 C# Game Engineer.
+- 👀 C# Software Engineer || Game Developer.
 - 🌱 Skills: C#, Unity, C++, Unreal Engine, Blender, Adobe Photoshop, Adobe Illustrator, Audacity, Sony Vegas, Magica Voxel.
 - 📫Use my link tree to reach me: https://linktr.ee/aajinteractive
 
