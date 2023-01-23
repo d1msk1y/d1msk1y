@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d1msk1y
 - 👀 Software Engineer || Game Developer.
-- 🌱 Skills: C#, Unity, C++, Unreal Engine, Blender, Adobe Photoshop
+- 🌱 Skills: C#, Go, C++, Rust, Unity Unreal Engine, Blender, Adobe Photoshop
 - 📫Use my link tree to reach me: https://linktr.ee/aajinteractive
 
 <!---
