@@ -8,11 +8,5 @@ C# | Linux | Go | Rust | Tauri | Bash | Docker | JavaScript
 Python | Ruby | Ruby on Rails | HTML | CSS | C++
 ```
 I excel in C#, Go, Rust(Tauri), and Docker.  
-As my main OS, I tend to use Linux as it has not only become integral to my workflow but has also granted me a foundational knowldge of Bash scripting.
-
-## 📫 Reach me out
-
-- 📧 Email: [yatcenko.dmitriy@gmail.com](mailto:exect@gmail.com)
-- 💼 LinkedIn: [dmytroyatsenko](https://www.linkedin.com/in/dmytroyatsenko/)
-
+As my main OS, I tend to use Linux as it has not only become integral to my workflow but has also granted me a foundational knowldge of Bash scripting.  
 [![GitHub Streak](https://streak-stats.demolab.com?user=d1msk1y&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
