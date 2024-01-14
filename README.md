@@ -6,8 +6,8 @@ I'm a passionate Software Engineer with more than 4 years of hands-on experience
 C# | Linux | Go | Rust | Tauri | Bash | Docker | Python | TypeScript
 PostgreSQL | MongoDB | Ruby | Ruby on Rails | JavaScript | HTML/CSS | C++
 ```
-I excel in C#, Go, Rust(Tauri), and Docker.  
-As my main OS, I tend to use Linux as it has not only become integral to my workflow but has also granted me a foundational knowldge of Bash scripting.  
+I excel in C#, Go, Rust(Tauri), and TypeScript.  
+As my main OS, I tend to use Linux as it has not only become integral to my workflow but has also given me a foundational knowldge of Bash scripting.  
 
 <details>
     <summary><b>Stats</b></summary>
