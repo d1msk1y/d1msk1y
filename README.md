@@ -18,3 +18,18 @@ As my main OS, I tend to use Linux as it has not only become integral to my work
 </div>
 
  </details>
+
+[//]: # (portfolio section)
+
+<details>
+    <summary><b>📂 Portfolio</b></summary>
+        <div align="center">
+<details>
+        <summary><b>📦 Grafana Solar Flow</b></summary>
+            <h2>Grafana Solar Flow</h2>
+            <p>A Grafana plugin that visualizes the realtime data from solar panels displaying the current Production/Use/Waste ratio. The plugin is written in TypeScript and uses the Grafana SDK to interact with the Grafana backend.</p>
+            <img src="portfolio/grafana-solar-flow/demo.gif">
+            <h3>GitHub: <a href="https://github.com/A-Lehmann-Elektro-AG/solar-flow-grafana">A-Lehmann-Elektro-AG/solar-flow-grafana</a></h3>
+        </div>
+
+</details>
