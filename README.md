@@ -1,16 +1,24 @@
 # 👋 Hi, I’m Dima
-I'm a passionate Software Engineer with more than 4 years of hands-on experience. Throughout this time, I have delved into diverse projects spanning a wide array of languages and technologies, which equipped me with a profound grasp of low-level programming principles, design patterns, and the art of getting things done in the most efficient and robust ways. My skillset leans more into backend development, I love to work on projects that require solid understanding of software achitecture and logical thinking
+
+I'm a passionate Software Engineer with more than 4 years of hands-on experience. Throughout this time, I have delved
+into diverse projects spanning a wide array of languages and technologies, which equipped me with a profound grasp of
+low-level programming principles, design patterns, and the art of getting things done in the most efficient and robust
+ways. My skillset leans more into backend development, I love to work on projects that require solid understanding of
+software achitecture and logical thinking
+
 ## 🔧 Skills
 
 ```text
 C# | Linux | Go | Rust | Tauri | Bash | Docker | Python | TypeScript
 PostgreSQL | MongoDB | Ruby | Ruby on Rails | JavaScript | HTML/CSS | C++
 ```
+
 I excel in C#, Go, Rust(Tauri), and TypeScript.  
-As my main OS, I tend to use Linux as it has not only become integral to my workflow but has also given me a foundational knowldge of Bash scripting.  
+As my main OS, I tend to use Linux as it has not only become integral to my workflow but has also given me a
+foundational knowldge of Bash scripting.
 
 <details>
-    <summary><b>Stats</b></summary>
+    <summary><b>:floppy_disk: GitHub Stats</b></summary>
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d1msk1y&theme=transparent"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d1msk1y&theme=transparent" />
@@ -23,13 +31,14 @@ As my main OS, I tend to use Linux as it has not only become integral to my work
 
 <details>
     <summary><b>📂 Portfolio</b></summary>
-        <div align="center">
-<details>
-        <summary><b>📦 Grafana Solar Flow</b></summary>
-            <h2>Grafana Solar Flow</h2>
-            <p>A Grafana plugin that visualizes the realtime data from solar panels displaying the current Production/Use/Waste ratio. The plugin is written in TypeScript and uses the Grafana SDK to interact with the Grafana backend.</p>
-            <img src="portfolio/grafana-solar-flow/demo.gif">
-            <h3>GitHub: <a href="https://github.com/A-Lehmann-Elektro-AG/solar-flow-grafana">A-Lehmann-Elektro-AG/solar-flow-grafana</a></h3>
+        <div>
+            <details>
+                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Grafana Solar Flow</b></summary>
+                    <h2>Grafana Solar Flow</h2>
+                    <p>A Grafana plugin that visualizes the realtime data from solar panels displaying the current Production/Use/Waste ratio. The plugin is written in TypeScript and uses the Grafana SDK to interact with the Grafana backend.</p>
+                    <img src="portfolio/grafana-solar-flow/demo.gif">
+                    <h3>GitHub: <a href="https://github.com/A-Lehmann-Elektro-AG/solar-flow-grafana">A-Lehmann-Elektro-AG/solar-flow-grafana</a></h3>
+            </details>
         </div>
 
 </details>
