@@ -39,6 +39,18 @@ foundational knowldge of Bash scripting.
                     <img src="portfolio/grafana-solar-flow/demo.gif">
                     <h3>GitHub: <a href="https://github.com/A-Lehmann-Elektro-AG/solar-flow-grafana">A-Lehmann-Elektro-AG/solar-flow-grafana</a></h3>
             </details>
+            <details>
+                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Aepli Solar</b></summary>
+                    <h2>Aepli Solar</h2>
+                    <p>Another solar visualization webapp I contributed to for @A-Lehmann-Elektro-AG. The grafana plugin was partly based on this project.</p>
+                    <img src="portfolio/aepli-solar/img.png">
+            </details>
+            <details>
+                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Fusion Solar</b></summary>
+                    <h2>Fusion Solar</h2>
+                    <p>Yes, another solar visualization webapp I as well contributed to for @A-Lehmann-Elektro-AG. This app features definition of custom color palettes and icons</p>
+                    <img src="portfolio/fusion-solar/image.png">
+            </details>
         </div>
 
 </details>
