@@ -33,11 +33,29 @@ foundational knowldge of Bash scripting.
     <summary><b>📂 Portfolio</b></summary>
         <div>
             <details>
+                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Lehmann Connector</b></summary>
+                    <h2>Lehmann Connector (v2.0)</h2>
+                    <p>A .net app designed to ease the handling of incoming calls for your On-Call Support by displaying the calling customer's info. Connector was initially integrated with 3CX, a business Phone System. However, the part I developed, which was released as an update, is the integration with Microsoft Teams and other miscellaneous features. Furthermore, I have almost entirely rebuilt the licensing of the app, by developing a dedicated Cloud Licensing Service hosted as an Azure Function App. I contributed to it in a team at @A-Lehmann-Elektro-AG</p>
+                    <img src="portfolio/connector/connector.png">
+            </details>
+            <details>
+                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Aepli Solar</b></summary>
+                    <h2>Aepli Solar</h2>
+                    <p>A solar visualization webapp I contributed to for @A-Lehmann-Elektro-AG. The grafana plugin was partly based on this project.</p>
+                    <img src="portfolio/aepli-solar/img.png">
+            </details>
+            <details>
                 <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Grafana Solar Flow</b></summary>
                     <h2>Grafana Solar Flow</h2>
                     <p>A Grafana plugin that visualizes the realtime data from solar panels displaying the current Production/Use/Waste ratio. The plugin is written in TypeScript and uses the Grafana SDK to interact with the Grafana backend.</p>
                     <img src="portfolio/grafana-solar-flow/demo.gif">
                     <h3>GitHub: <a href="https://github.com/A-Lehmann-Elektro-AG/solar-flow-grafana">A-Lehmann-Elektro-AG/solar-flow-grafana</a></h3>
+            </details>
+            <details>
+                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Fusion Solar</b></summary>
+                    <h2>Fusion Solar</h2>
+                    <p>Another solar visualization webapp I as well contributed to for @A-Lehmann-Elektro-AG. This app features definition of custom color palettes and icons</p>
+                    <img src="portfolio/fusion-solar/image.png">
             </details>
         </div>
 
