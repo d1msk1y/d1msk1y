@@ -52,10 +52,13 @@ foundational knowldge of Bash scripting.
                     <h3>GitHub: <a href="https://github.com/A-Lehmann-Elektro-AG/solar-flow-grafana">A-Lehmann-Elektro-AG/solar-flow-grafana</a></h3>
             </details>
             <details>
-                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Fusion Solar</b></summary>
-                    <h2>Fusion Solar</h2>
-                    <p>Another solar visualization webapp I as well contributed to for @A-Lehmann-Elektro-AG. This app features definition of custom color palettes and icons</p>
-                    <img src="portfolio/fusion-solar/image.png">
+                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Lehmann stylized Pac-Man</b></summary>
+                    <h2>Lehmann stylized Pac-Man clone</h2>
+                    <p>At @A-Lehmann-Elektro-AG I developed a clone of a well-known arcade game "The Pac-Man" specially stylized and designed to fit the company style as a marketing showcase. Developed on C# Unity. Everyone knows Pac-Man, given it is a clone of it, I assume you know the functionality I had been given to implement. Apart from all the base functionality, I've implemented the leaderboard, the winner gets the price. There are some more adjustments, that were made in order to make the game look more appealing and to match the style of the company. The levels, as well as the colours of the ghosts were designed to represent the sponsors and our company./p>
+                    <img src="portfolio/pacman/menu.png">
+                    <img src="portfolio/pacman/tutorial.png">
+                    <img src="portfolio/pacman/lehmann.png">
+                    <img src="portfolio/pacman/frightened.png">
             </details>
         </div>
 
