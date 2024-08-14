@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Dima
 
-I'm a passionate Software Engineer with more than 4 years of hands-on experience. Throughout this time, I have delved
-into diverse projects spanning a wide array of languages and technologies, which equipped me with a profound grasp of
-low-level programming principles, design patterns, and the art of getting things done in the most efficient and robust
-ways. My skillset leans more into backend development, I love to work on projects that require solid understanding of
-software achitecture and logical thinking
+I'm a passionate Software Engineer with more than 4 years of hands-on experience, both as a solo developer and as a *first* Software Developer at Lehmann Elektro. Throughout this time, I have delved
+into diverse projects spanning a wide array of languages and technologies, which equipped me with a profound grasp of 
+which equipped me with a profound grasp of low-level programming principles, design patterns, and the art of getting things done in the most efficient and robust ways. 
+My skillset and passion lean more into backend development, as I love to work on projects that require solid understanding of
+software achitecture, fast problem-solving, and logical thinking
 
 ## 🔧 Skills
 
@@ -13,9 +13,8 @@ C# | Linux | Go | Rust | Tauri | Bash | Docker | Python | TypeScript
 PostgreSQL | MongoDB | Ruby | Ruby on Rails | JavaScript | HTML/CSS | C++
 ```
 
-I excel in C#, Go, Rust(Tauri), and TypeScript.  
-As my main OS, I tend to use Linux as it has not only become integral to my workflow but has also given me a
-foundational knowldge of Bash scripting.
+I excel in .NET and Node.js development.
+I had used Linux as my main OS for more over a year, which had not only become integral to my workflow but had also given me the foundational knowldge of Bash scripting and other Linux components
 
 <details>
     <summary><b>:floppy_disk: GitHub Stats</b></summary>
@@ -28,38 +27,53 @@ foundational knowldge of Bash scripting.
  </details>
 
 [//]: # (portfolio section)
-
 <details>
     <summary><b>📂 Portfolio</b></summary>
-        <div>
-            <details>
-                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Lehmann Connector</b></summary>
-                    <h2>Lehmann Connector (v2.0)</h2>
-                    <p>A .net app designed to ease the handling of incoming calls for your On-Call Support by displaying the calling customer's info. Connector was initially integrated with 3CX, a business Phone System. However, the part I developed, which was released as an update, is the integration with Microsoft Teams and other miscellaneous features. Furthermore, I have almost entirely rebuilt the licensing of the app, by developing a dedicated Cloud Licensing Service hosted as an Azure Function App. I contributed to it in a team at @A-Lehmann-Elektro-AG</p>
-                    <img src="portfolio/connector/connector.png">
-            </details>
-            <details>
-                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Aepli Solar</b></summary>
-                    <h2>Aepli Solar</h2>
-                    <p>A solar visualization webapp I contributed to for @A-Lehmann-Elektro-AG. The grafana plugin was partly based on this project.</p>
-                    <img src="portfolio/aepli-solar/img.png">
-            </details>
-            <details>
-                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Grafana Solar Flow</b></summary>
-                    <h2>Grafana Solar Flow</h2>
-                    <p>A Grafana plugin that visualizes the realtime data from solar panels displaying the current Production/Use/Waste ratio. The plugin is written in TypeScript and uses the Grafana SDK to interact with the Grafana backend.</p>
-                    <img src="portfolio/grafana-solar-flow/demo.gif">
-                    <h3>GitHub: <a href="https://github.com/A-Lehmann-Elektro-AG/solar-flow-grafana">A-Lehmann-Elektro-AG/solar-flow-grafana</a></h3>
-            </details>
-            <details>
-                <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Lehmann stylized Pac-Man</b></summary>
-                    <h2>Lehmann stylized Pac-Man clone</h2>
-                    <p>At @A-Lehmann-Elektro-AG I developed a clone of a well-known arcade game "The Pac-Man" specially stylized and designed to fit the company style as a marketing showcase. Developed on C# Unity. Everyone knows Pac-Man, given it is a clone of it, I assume you know the functionality I had been given to implement. Apart from all the base functionality, I've implemented the leaderboard, the winner gets the price. There are some more adjustments, that were made in order to make the game look more appealing and to match the style of the company. The levels, as well as the colours of the ghosts were designed to represent the sponsors and our company./p>
-                    <img src="portfolio/pacman/menu.png">
-                    <img src="portfolio/pacman/tutorial.png">
-                    <img src="portfolio/pacman/lehmann.png">
-                    <img src="portfolio/pacman/frightened.png">
-            </details>
-        </div>
+    <div>
 
+   <details>
+        <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Lehmann Connector (v2.0)</b></summary>
+        <h3>Lehmann Connector (v2.0)</h3>
+        <p>A .NET application designed to streamline the management of incoming calls for On-Call Support by displaying the caller's customer information. Originally integrated with 3CX, a business phone system, I contributed to the project by developing the integration with Microsoft Teams, alongside other miscellaneous features. Additionally, I played a key role in revamping the licensing system by developing a Cloud Licensing Service hosted on Azure Functions.</p>
+        <p><b>Role:</b> Backend .NET Developer</p>
+        <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
+        <img src="portfolio/connector/connector.png" alt="Lehmann Connector Image">
+    </details>
+    <details>
+        <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Aepli Solar</b></summary>
+        <h3>Aepli Solar</h3>
+        <p>A web application for solar energy visualization, allowing users to monitor real-time data from solar panels. My contributions to this project laid the groundwork for the development of a related Grafana plugin, enhancing data visualization capabilities.</p>
+        <p><b>Role:</b> Full-Stack node.js Developer</p>
+        <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
+        <img src="portfolio/aepli-solar/img.png" alt="Aepli Solar Image">
+    </details>
+    <details>
+        <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Grafana Solar Flow</b></summary>
+        <h3>Grafana Solar Flow</h3>
+        <p>A custom Grafana plugin for visualizing real-time solar panel data, displaying the current production, usage, and waste ratios. The plugin is built using TypeScript and leverages the Grafana SDK to interact with the Grafana backend, providing an intuitive and informative dashboard for solar energy management.</p>
+        <p><b>Role:</b> Database Plugin Developer</p>
+        <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
+        <h4>GitHub: <a href="https://github.com/A-Lehmann-Elektro-AG/solar-flow-grafana">A-Lehmann-Elektro-AG/solar-flow-grafana</a></h4>
+        <img src="portfolio/grafana-solar-flow/demo.gif" alt="Grafana Solar Flow Demo">
+    </details>
+    <details>
+        <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Lehmann Stylized Pac-Man Clone</b></summary>
+        <h3>Lehmann Stylized Pac-Man Clone</h3>
+        <p>A custom clone of the classic arcade game "Pac-Man," designed and stylized to align with lehmann's brand identity. Developed in C# using Unity, this project included a leaderboard feature, custom levels, and ghost designs that represented sponsors and the company’s branding, making it a unique marketing tool.</p>
+        <p><b>Role:</b> Unity Game Developer</p>
+        <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
+        <img src="portfolio/pacman/menu.png" alt="Pac-Man Menu">
+        <img src="portfolio/pacman/tutorial.png" alt="Pac-Man Tutorial">
+        <img src="portfolio/pacman/lehmann.png" alt="Pac-Man Lehmann">
+        <img src="portfolio/pacman/frightened.png" alt="Pac-Man Frightened">
+    </details>
+    <details>
+        <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Fusion Solar</b></summary>
+        <h3>Fusion Solar</h3>
+        <p>A solar energy visualization web application that I contributed to, featuring customizable color palettes and iconography. This tool allows users to monitor and visualize solar energy production and usage with a tailored interface that fits various branding requirements.</p>
+        <p><b>Role:</b> Full-Stack node.js Developer</p>
+        <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
+        <img src="portfolio/fusion-solar/image.png" alt="Fusion Solar Image">
+    </details>
+    </div>
 </details>
