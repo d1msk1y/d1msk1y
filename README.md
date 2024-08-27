@@ -68,6 +68,23 @@ I had used Linux as my main OS for more over a year, which had not only become i
         <img src="portfolio/pacman/frightened.png" alt="Pac-Man Frightened">
     </details>
     <details>
+        <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Insane Islands</b></summary>
+        <h3>Insane Islands</h3>
+        <p>Insane Islands is a 3D adventure game I developed quite a while ago, back in 2021</p>
+        <p>
+About:
+You play as a bomb💣, your main task is to get to the finish line before it explodes, only the difficulty lies in the fact that the bomb is controlled by tilting your phone, the faster you pass the level, the more stars you get🌟.
+
+You have to ride on wooden bridges in the forest with extreme jumps.
+In some levels, you have to be cunning to pass the level faster and get more stars🌟</p>
+        <p><b>Role:</b> Unity Game Developer</p>
+        <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
+        <h4>GitHub: <a href="https://github.com/d1msk1y/insane-islands">d1msk1y/insane-islands</a></h4>
+        <img src="portfolio/insane-islands/9QWe+f.png">
+        <img src="portfolio/insane-islands/AG2Dd1.png">
+        <img src="portfolio/insane-islands/MxEXLh.png">
+    </details>
+    <details>
         <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Fusion Solar</b></summary>
         <h3>Fusion Solar</h3>
         <p>A solar energy visualization web application that I contributed to, featuring customizable color palettes and iconography. This tool allows users to monitor and visualize solar energy production and usage with a tailored interface that fits various branding requirements.</p>
