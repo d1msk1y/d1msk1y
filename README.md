@@ -78,12 +78,23 @@ You play as a bomb💣, your main task is to get to the finish line before it ex
 You have to ride on wooden bridges in the forest with extreme jumps.
 In some levels, you have to be cunning to pass the level faster and get more stars🌟</p>
         <p><b>Role:</b> Unity Game Developer</p>
-        <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
+        <p><b>Company:</b> Self-Employed</p>
         <h4>GitHub: <a href="https://github.com/d1msk1y/insane-islands">d1msk1y/insane-islands</a></h4>
         <img src="portfolio/insane-islands/9QWe+f.png">
         <img src="portfolio/insane-islands/AG2Dd1.png">
         <img src="portfolio/insane-islands/MxEXLh.png">
     </details>
+    <details>
+    <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 DVDE</b></summary>
+    <h3>DVDE: Dude Story (Read as "Dude")</h3>
+    <p>DVDE is an archived 2D Top-Down shooter, I started developing back in the fall 2021, but never got to release it.</p>
+    <p>About: DVDE: Dude Story is a Top-down Shoot'em-up 2d shooter with the bunch of guns, upgrades, skills, customization and AI enemies. Your main task is to pass through procedurally generated rooms and destroy enemies.</p>
+    <p><b>Role:</b> Unity Game Developer</p>
+    <p><b>Company:</b> Self-Employed</p>
+    <h4>GitHub: <a href="https://github.com/d1msk1y/DVDE">d1msk1y/dvde</a></h4>
+    [![DVDE](https://img.youtube.com/vi/PBXpun9bqEw/0.jpg)](https://www.youtube.com/watch?v=PBXpun9bqEw)
+
+</details>
     <details>
         <summary><b>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎📦 Fusion Solar</b></summary>
         <h3>Fusion Solar</h3>
