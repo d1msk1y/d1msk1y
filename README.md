@@ -29,7 +29,6 @@ I had used **Linux** as my main OS for more over a year, which had not only beco
 [//]: # (portfolio section)
 <details>
     <summary><b>📂Portfolio</b></summary>
-    <div>
 
 <details>
     <summary><b>-📂Game Development</b></summary>
@@ -43,6 +42,17 @@ I had used **Linux** as my main OS for more over a year, which had not only beco
     <img src="portfolio/pacman/tutorial.png" alt="Pac-Man Tutorial">
     <img src="portfolio/pacman/lehmann.png" alt="Pac-Man Lehmann">
     <img src="portfolio/pacman/frightened.png" alt="Pac-Man Frightened">
+</details>
+<details>
+<summary><b>--📦DVDE</b></summary>
+<h3>DVDE: Dude Story (Read as "Dude")</h3>
+<p>DVDE is an archived 2D Top-Down shooter, I started developing back in the fall 2021, but never got to release it.</p>
+<p>About: `DVDE: Dude Story is a Top-down Shoot'em-up 2d shooter with the bunch of guns, upgrades, skills, customization and AI enemies. Your main task is to pass through procedurally generated rooms and destroy enemies.</p>
+<p><b>Role:</b> Unity Game Developer</p>
+<p><b>Company:</b> Self-Employed</p>
+<h4>GitHub: <a href="https://github.com/d1msk1y/DVDE">d1msk1y/dvde</a></h4>
+[![DVDE](https://img.youtube.com/vi/PBXpun9bqEw/0.jpg)](https://www.youtube.com/watch?v=PBXpun9bqEw)
+
 </details>
 <details>
     <summary><b>--📦Insane Islands</b></summary>
@@ -62,16 +72,32 @@ In some levels, you have to be cunning to pass the level faster and get more sta
     <img src="portfolio/insane-islands/MxEXLh.png">
 </details>
 <details>
-<summary><b>--📦DVDE</b></summary>
-<h3>DVDE: Dude Story (Read as "Dude")</h3>
-<p>DVDE is an archived 2D Top-Down shooter, I started developing back in the fall 2021, but never got to release it.</p>
-<p>About: `DVDE: Dude Story is a Top-down Shoot'em-up 2d shooter with the bunch of guns, upgrades, skills, customization and AI enemies. Your main task is to pass through procedurally generated rooms and destroy enemies.</p>
+<summary><b>--📦Pulsfire: Signs of Life</b></summary>
+<h3>Pulsfire: Signs of Life</h3>
+<p>This is a submission to a 48 hours game jame "Area of Effect 2021" with the theme "Signs of Life"
+
+About: Puls Fire: SoF is a runner game created in 2 days for Area of Effects 2021 Game Jam. The main character is in intensive care. Doctors have given him a chance to survive with the help of a defibrillator, but he must keep his heart rate within a normal range to stay alive.</p>
 <p><b>Role:</b> Unity Game Developer</p>
 <p><b>Company:</b> Self-Employed</p>
-<h4>GitHub: <a href="https://github.com/d1msk1y/DVDE">d1msk1y/dvde</a></h4>
-[![DVDE](https://img.youtube.com/vi/PBXpun9bqEw/0.jpg)](https://www.youtube.com/watch?v=PBXpun9bqEw)
+<h4>GitHub: <a href="https://github.com/d1msk1y/signs-of-life">d1msk1y/signs-of-life</a></h4>
+<h4>Itch IO: <a href="https://aaj-studio.itch.io/pulsfire">Dedicated Webpage</a></h4>
+<img src="portfolio/pulsfire/screen0.png">
+<img src="portfolio/pulsfire/screen2.png">
 
 </details>
+<details>
+<summary><b>--📦Danger Cube</b></summary>
+<h3>Danger Cube</h3>
+<p>This is the first project I had released back in 2021, and that im least proud of, however I think it is still worth mentioning, for the sake of the complete portfolio</p>
+<p>About: Danger Cube is basically a really simple 2d runner built on unity. You play as a cube, cube hit another cube = death, as simple as that. You can unlock various skins by reaching more score. It is pointless to mention how bad the code is, if you're brave enough to take a look at it, you're welcome to the github repo below</p>
+<p><b>Role:</b> Unity Game Developer</p>
+<p><b>Company:</b> Self-Employed</p>
+<h4>GitHub: <a href="https://github.com/d1msk1y/danger-cube">d1msk1y/dange-cube</a></h4>
+<img src="portfolio/danger-cube/screen-0.png">
+<img src="portfolio/danger-cube/screen-1.png">
+
+</details>
+
 </details>
    <details>
         <summary><b>-📦Lehmann Connector (v2.0)</b></summary>
@@ -106,6 +132,5 @@ In some levels, you have to be cunning to pass the level faster and get more sta
         <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
         <img src="portfolio/fusion-solar/image.png" alt="Fusion Solar Image">
     </details>
-    </div>
 </details>
 </details>
