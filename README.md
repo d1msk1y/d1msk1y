@@ -1,20 +1,22 @@
 
 # 👋 Hi, I’m Dima
 
-I'm a passionate **Software Engineer** with more than **4 years** of hands-on experience, both as a solo developer and as the *first* Software Developer at Lehmann Elektro. 
+I'm a passionate **Software Engineer** with more than **5 years** of hands-on experience, both as a solo developer and as the *first* Software Developer at Lehmann Elektro (just saying).
 
-Throughout this time, I have delved into diverse projects spanning a wide array of languages and technologies, equipping me with a profound grasp of low-level programming principles, design patterns, and the art of getting things done in the most efficient and robust ways. My skillset and passion lean more into **backend development**, as I love to work on projects that require a solid understanding of software architecture, fast problem-solving, and logical thinking.
+Throughout this time, I have delved into diverse projects spanning a wide array of languages and technologies. Without going deep into details, let's just say it equipped me with a profound grasp of universal programming principles, design patterns, and the art of getting things done in the most efficient and robust ways. 
+
+At my current position I'm more of a fullstack developer, however my skillset and passion lean more into **backend development**, as I love to work on projects that reward solid understanding of software architecture, fast problem-solving, and logical thinking.
 
 ## 🔧 Skills
 
 ```text
-C#            | Linux       | Go            | Rust          | Tauri        | Bash 
-Docker        | Python      | TypeScript    | PostgreSQL    | MongoDB      | Ruby 
-Ruby on Rails | JavaScript  | HTML/CSS      | C++           
+C#            | TypeScript  | Go            | Rust          | Python        | Bash 
+Docker        | DevOps      | Linux         | Azure         |  Ruby         | Tauri                 
+Ruby on Rails | JavaScript  | HTML/CSS      | C++           | PostgreSQL    | MongoDB 
 ```
 
-I excel in **.NET**, **Linux** and **Node.js** development.  
-I had used **Linux** as my main OS for more over a year, which had not only become integral to my workflow but had also given me the foundational knowldge of Bash scripting and other Linux components
+I excel in **.NET**, **Node.js** and **Linux** development.  
+I had used **Linux** as my main OS for more over a year, which had not only become integral to my workflow but had also given me the foundational knowldge of Bash scripting and other Linux components.
 
 <details>
     <summary><b>:floppy_disk: GitHub Stats</b></summary>
@@ -82,6 +84,25 @@ About: Puls Fire: SoF is a runner game created in 2 days for Area of Effects 202
 <img src="portfolio/pulsfire/screen0.png">
 <img src="portfolio/pulsfire/screen2.png">
 
+</details>
+<details>
+    <summary><b>--📦Shoot!</b></summary>
+    <h3>Shoot!</h3>
+    <p>This is an irregular type of a 2D Shooter I depeloped and released after my first released project</p>
+    <p>About: 
+Your main task is to move around the world using weapon recoil and destroy enemies💥.
+
+For each destroyed enemy, you will receive experience and coins. For these coins, you can buy new weapons or improve old ones, as well as buy skills.
+
+Throughout the gameplay, you will encounter various obstacles. There are 6 types of obstacles in total, but the most advanced are missiles.
+
+The game features so called `Skills`. There are many of them in the game, and each one of them has its own purpose, but generally speaking, every skill help you earn more coins, hence help you open other skills. 
+    </p>
+    <p><b>Role:</b> Unity Game Developer</p>
+    <p><b>Company:</b> Self-Employed</p>
+    <h4>GitHub: <a href="https://github.com/d1msk1y/shoot">d1msk1y/shoot</a></h4>
+    <!-- <img src="portfolio/danger-cube/screen-0.png"> -->
+    <!-- <img src="portfolio/danger-cube/screen-1.png"> -->
 </details>
 <details>
     <summary><b>--📦Danger Cube</b></summary>
