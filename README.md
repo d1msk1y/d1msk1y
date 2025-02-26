@@ -131,8 +131,23 @@ The game features so called `Skills`. There are many of them in the game, and ea
         <p>Webshop is an integrated into a Business-Software product catalogue that lists products imported into the Mongo DB from an XML/CSV file. The Webshop interacts with the Business-Software's API to add desired items to an invoice/project/ticket with all the required params like: Buy/Sell Price, Manufacturer, Quantity and Description. The backend is on Node.JS with handlebars for lighweight server-side rendering. The Webshop's REST API provides endpoints for manual import; UI import with progress bar and import status; and the actual catalogue page.</p>
         <p><b>Role:</b> Full-Stack node.js Developer</p>
         <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
-        <img src="portfolio/webshop/mainpage.png" alt="Webshop Image">
+        <img src="portfolio/webshop/mainpage-new.png" alt="Webshop Image">
         <img src="portfolio/webshop/importfinish.png" alt="Webshop Image">
+    </details>
+    <details>
+        <summary><b>-📦Business Automations</b></summary>
+        <h3>Business Software - Event-Driven Automations</h3>
+        <p>This project is a Rest API superset of various event-driven business-software automations of documents such as invoices, projects, customers, etc. For example (one of the automations), when one converts a project or a ticket into an invoice, the software API will call an automation event handler and forward some of the referenced document's data like: category, attached files, responsible employee, etc. All automation widely use our business software API, so I had to develop a kind of SDK for it, to make the code less repetitive, more cohesive and cleaner. </p>
+        <p><b>Role:</b> Full-Stack node.js Developer</p>
+        <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
+    </details>
+    <details>
+        <summary><b>-📦Price Calculator</b></summary>
+        <h3>Invoice Price Calculator</h3>
+        <p>This simple app is a part of `Bsuness Automations`. It's a simple webapp built on handlebars used to calculate listing and selling price on positions in an Invoice in our Business Software based on the price factor. Open the app, give the price factor, press calculate, adjust the prices and press apply. The price calc. will run the needed API calls and apply the prices to the invoice</p>
+        <p><b>Role:</b> Full-Stack node.js Developer</p>
+        <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
+        <img src="portfolio/automations/mainpage.png" alt="Automation image">
     </details>
     <details>
         <summary><b>-📦Grafana Solar Flow</b></summary>
@@ -151,7 +166,7 @@ The game features so called `Skills`. There are many of them in the game, and ea
         <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
         <img src="portfolio/aepli-solar/img.png" alt="Aepli Solar Image">
     </details>
-        <details>
+    <details>
         <summary><b>-📦Fusion Solar</b></summary>
         <h3>Fusion Solar</h3>
         <p>A solar energy visualization web application that I contributed to, featuring customizable color palettes and iconography. This tool allows users to monitor and visualize solar energy production and usage with a tailored interface that fits various branding requirements.</p>
