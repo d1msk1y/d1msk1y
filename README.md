@@ -1,22 +1,38 @@
 
-# 👋 Hi, I’m Dima
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m Dima
+  
 
-I'm a passionate **Software Engineer** with more than **5 years** of hands-on experience, both as a solo developer and as the *first* Software Developer at Lehmann Elektro (just saying).
+I’m a **Software Engineer** with over **5 years** of hands-on experience building and shipping software — from business automation tools to commercial games and data-driven dashboards.  
 
-Throughout this time, I have delved into diverse projects spanning a wide array of languages and technologies. Without going deep into details, let's just say it equipped me with a profound grasp of universal programming principles, design patterns, and the art of getting things done in the most efficient and robust ways. 
+Over the years, I’ve worked on diverse projects spanning a wide range of languages and technologies, equipping me with a strong grasp of core **programming principles, design patterns, and the art of delivering robust, efficient solutions**.
 
-At my current position I'm more of a fullstack developer, however my skillset and passion lean more into **backend development**, as I love to work on projects that reward solid understanding of software architecture, fast problem-solving, and logical thinking.
+Since **August 2023**, I’ve worked as the **first Software Developer at Lehmann Elektro**, leading full-stack projects and designing robust backend architectures. **Managing deadlines, architecture decisions, priorities, and other project management tasks** has helped me grow not only as a Software Developer but also as a de facto Project Lead.
+
+My focus: **clean, efficient, production-ready systems**.  
+I enjoy backend-heavy development where architecture, logic, and speed matter.
+
+## 💼 Experience
+
+> **A-Lehmann-Elektro-AG** — *Software Developer*  
+📆 Aug 2023 – Present  
+
+- Built and maintained multiple full-stack solutions using **Node.js**, **.NET**, and **TypeScript**.  
+- Designed and deployed **ERP process-automation APIs** reducing manual work hours by up to 70 %.  
+- Developed an **integrated webshop** connected to company ERP via REST API and MongoDB.  
+- Created a **Pac-Man-based marketing game** in Unity with sponsor integration and leaderboard system.  
+- Implemented **Azure Functions licensing system** for software.  
+
+
 
 ## 🔧 Skills
 
 ```text
-C#            | TypeScript  | Go            | Rust          | Python        | Bash 
-Docker        | DevOps      | Linux         | Azure         |  Ruby         | Tauri                 
-Ruby on Rails | JavaScript  | HTML/CSS      | C++           | PostgreSQL    | MongoDB 
+C#           | Docker     | Go          | WinUI 3   | Python       | Bash 
+TypeScript   | DevOps     | Linux       | Azure     | Ruby         | Tauri                 
+React        | MongoDB    | HTML/CSS/JS | Ruby      | PostgreSQL   | Ruby
 ```
 
-I excel in **.NET**, **Node.js** and **Linux** development.  
-I had used **Linux** as my main OS for more over a year, which had not only become integral to my workflow but had also given me the foundational knowldge of Bash scripting and other Linux components.
+> Strong in **software architecture**, **API design**, and **Linux-based development workflows** (1 + year as main OS, now using WSL).
 
 <details>
     <summary><b>:floppy_disk: GitHub Stats</b></summary>
