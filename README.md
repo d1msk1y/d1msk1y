@@ -6,7 +6,7 @@ I’m a **Software Engineer** with over **5 years** of hands-on experience build
 
 Over the years, I’ve worked on diverse projects spanning a wide range of languages and technologies, equipping me with a strong grasp of core **programming principles, design patterns, and the art of delivering robust, efficient solutions**.
 
-Since **August 2023**, I’ve worked as the **first Software Developer at Lehmann Elektro**, leading full-stack projects and designing robust backend architectures. **Managing deadlines, architecture decisions, priorities, and other project management tasks** has helped me grow not only as a Software Developer but also as a de facto Project Lead.
+Since **August 2023**, I’ve worked as the **first in-house Software Developer at Lehmann Elektro**, leading full-stack projects and designing robust backend architectures. **Managing deadlines, architecture decisions, priorities, and other project management tasks** has helped me grow not only as a Software Developer but also as a de facto Project Lead.
 
 My focus: **clean, efficient, production-ready systems**.  
 I enjoy backend-heavy development where architecture, logic, and speed matter.
@@ -23,7 +23,6 @@ I enjoy backend-heavy development where architecture, logic, and speed matter.
 - Implemented **Azure Functions licensing system** for software.  
 
 
-
 ## 🔧 Skills
 
 ```text
@@ -38,8 +37,10 @@ React        | MongoDB    | HTML/CSS/JS | Ruby      | PostgreSQL   | Ruby
     <summary><b>:floppy_disk: GitHub Stats</b></summary>
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d1msk1y&theme=transparent"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d1msk1y&theme=transparent" />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=d1msk1y&theme=transparent&hide_border=true&card_width=357&hide_total_contributions=true" alt="GitHub Streak" /></a>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d1msk1y&theme=transparent" style="vertical-align: top;" />
+        <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=d1msk1y&theme=transparent&hide_border=true&exclude_days=Sun%2CWed%2CThu%2CSat&hide_total_contributions=true&card_width=400" alt="GitHub Streak" style="vertical-align: top;" /></a>
+    </div>
 </div>
 
  </details>
@@ -144,7 +145,7 @@ The game features so called `Skills`. There are many of them in the game, and ea
     <details>
         <summary><b>-📦Webshop</b></summary>
         <h3>Webshop</h3>
-        <p>Webshop is an integrated into a Business-Software product catalogue that lists products imported into the Mongo DB from an XML/CSV file. The Webshop interacts with the Business-Software's API to add desired items to an invoice/project/ticket with all the required params like: Buy/Sell Price, Manufacturer, Quantity and Description. The backend is on Node.JS with handlebars for lighweight server-side rendering. The Webshop's REST API provides endpoints for manual import; UI import with progress bar and import status; and the actual catalogue page.</p>
+        <p>Webshop is an integrated into a Business-Software product catalogue that lists products imported into the Mongo DB from an XML/CSV file. The Webshop interacts with the Business-Software's ERP API to add desired items to an invoice/project/ticket with all the required params like: Buy/Sell Price, Manufacturer, Quantity and Description. The backend is on Node.JS with handlebars for lighweight server-side rendering. The Webshop's REST API provides endpoints for manual import; UI import with progress bar and import status; and the actual catalogue page. <br/><br/> The webshop also features per-user **shopping cart retention** as well as **favorites list**</p>
         <p><b>Role:</b> Full-Stack node.js Developer</p>
         <p><b>Company:</b> A-Lehmann-Elektro-AG</p>
         <img src="portfolio/webshop/mainpage-new.png" alt="Webshop Image">
